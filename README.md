@@ -1,4 +1,4 @@
 Elite-Cartography
 =================
 
-Fell free to use and have fun :)
+Feel free to use and have fun :)
